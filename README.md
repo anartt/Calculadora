@@ -8,7 +8,7 @@ projeto de uma calculadora binaria e hexadecimal e decimal
 
 ### como clonar o repositorio
 ```
-git clone https://github.com/EmanuelTFF/calculadora.git
+git clone https://github.com/anartt/Calculadora
 ```
  ```js
 
